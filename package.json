@@ -6,8 +6,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node --watch .",
-    "dev": "nodemon .",
-    "build": "webpack"
+    "dev": "nodemon ."
   },
   "keywords": [],
   "author": "",
